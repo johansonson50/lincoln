@@ -1,4 +1,4 @@
-Lincoln GPS Update
+How to Update Lincoln GPS? Easy Guide
 ====================
 
 .. toctree::
